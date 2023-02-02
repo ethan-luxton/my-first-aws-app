@@ -1,0 +1,19 @@
+{
+  "name": "my-first-aws-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethan-luxton/my-first-aws-app.git"
+  },
+  "author": "Ethan Luxton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethan-luxton/my-first-aws-app/issues"
+  },
+  "homepage": "https://github.com/ethan-luxton/my-first-aws-app#readme"
+}
